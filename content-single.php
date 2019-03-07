@@ -115,17 +115,11 @@
         <br>
         <ul class="list-inline text-center">
           <li><a href="https://www.instagram.com/lamixtape/" target="_blank" class="no--hover"><i class="fab fa-instagram fa-sm"></i></a></li>
-          <li>&nbsp;</li>
           <li><a href="https://www.facebook.com/Lamixtape/" target="_blank" class="no--hover"><i class="fab fa-facebook fa-sm"></i></a></li>
-          <li>&nbsp;</li>
           <li><a href="https://twitter.com/lamixtape" target="_blank" class="no--hover"><i class="fab fa-twitter fa-sm"></i></a></li>
-          <li>&nbsp;</li>
           <li><a href="https://soundcloud.com/lamixtape" target="_blank" class="no--hover"><i class="fab fa-soundcloud fa-sm"></i></a></li>
-          <li>&nbsp;</li>
           <li><a href="https://www.youtube.com/channel/UCC6KvX3PCah6yWMCP6BFOYA" target="_blank" class="no--hover"><i class="fab fa-youtube fa-sm"></i></a></li>
-          <li>&nbsp;</li>
           <li><a href="https://open.spotify.com/user/lamixtape" target="_blank" class="no--hover"><i class="fab fa-spotify fa-sm"></i></a></li>
-          <li>&nbsp;</li>
           <li><a href="https://itunes.apple.com/profile/Lamixtape" target="_blank" class="no--hover"><i class="fab fa-apple fa-sm"></i></a></li>
         </ul>
       </div>

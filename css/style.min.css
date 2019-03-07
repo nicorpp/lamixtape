@@ -515,6 +515,10 @@ body.page-template-channels section span {
   font-size: 14px!important;
 }
 
+.playlist .newsletter ul li {
+  padding-right: 30px;
+}
+
 button:focus, button:active {
   color:#fff!important;
   box-shadow: none!important;
